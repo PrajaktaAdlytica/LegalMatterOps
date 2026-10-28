@@ -1,0 +1,19 @@
+Create one continuous 8-second cinematic brand-intro shot in 16:9, with no text, for a premium legal operations website. Use the supplied images as a coherent visual sequence: image 01 is the opening composition, image 02 defines the mid-shot choreography, and image 03 is the ending composition. If only start/end frames can be supplied, use 01 and 03; retain the following middle action.
+
+ART DIRECTION
+A photographed miniature world made entirely from tactile handmade watercolor paper. Deep pine-green crumpled cotton-paper environment, blank deckle-edged ivory folios, sage, muted ochre and restrained pale terracotta paper layers. Preserve the reference materials, palette, lighting and paper shapes. Rich but soft studio illumination from upper left, gentle shadow falloff, subtle depth of field. Sophisticated editorial craft; physically plausible paper weight and flutter. No shiny plastic or metallic surfaces.
+
+0.0–2.0 SECONDS — THE ARRIVAL
+Start on image 01. Blank paper folios descend from beyond the top edge at different depths, softly fluttering as if carried by a slow controlled breath of air. Foreground sheets pass near the outer edges of the lens. Keep the central 45 percent calm and unobstructed for titles to be added later. The camera begins a very slow, smooth forward dolly.
+
+2.0–5.5 SECONDS — FINDING THEIR PLACE
+In the same unbroken shot, the descending papers follow broad, elegant curved paths toward the lower left and lower right. Transition through the composition and energy of image 02. Each sheet remains a discrete physical piece, gently turning and settling into layered groups. Stagger the movement to create a clear foreground, middle ground and background. Build a graceful visual crescendo through choreography and shadows, not rapid cutting or flashes. Maintain open central space.
+
+5.5–7.0 SECONDS — THE RESOLUTION
+The scattered pieces finish settling into the orderly, balanced paper arrangement in image 03. Straighten the folios into deliberate stacks along the lower edge and side margins. Let one final ivory sheet land softly with a small natural flex. The camera eases to a complete stop.
+
+7.0–8.0 SECONDS — THE HOLD
+Hold the final composition steadily for one second, with all pieces at rest and generous clean pine-green space in the center and upper center. Let this feel like a composed editorial title plate ready for typography to be added in post-production.
+
+NON-NEGOTIABLES
+Absolutely no text, letters, numbers, handwriting, captions, typography, logos, watermarks, icons, UI elements or printed document content at any point. Every sheet must remain blank. No humans, hands, gavels, scales of justice, buildings or office props. No spinning vortex, chaotic confetti, explosive motion, glowing particles, morphing objects, dissolving paper, melting edges, sudden cuts, strobing, camera shake or abrupt zoom. Preserve the tactile paper aesthetic and coherent lighting from start to finish. Silent visual film; no dialogue or voiceover. Deliver exactly eight seconds.
