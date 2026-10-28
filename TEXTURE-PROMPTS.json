@@ -1,0 +1,21 @@
+{
+  "method": "Built-in image_gen",
+  "assets": [
+    {
+      "name": "texture-pine-paper",
+      "prompt": "Use case: stylized-concept. Asset type: premium website background texture. Create a full-bleed flat top-down scan of dark forest pine green paper that was gently crumpled and flattened again. Entire image is paper, no objects, edges, text, symbols, borders or watermarks. Rich deep desaturated green centered around #163d32 / #153b30. Natural branching creases, soft shallow relief, fine cotton fibers and matte pigment, handmade archival paper. Visibly tactile and organic but restrained low contrast so ivory website text stays legible everywhere. No shiny foil, no rock, no leather, no dramatic directional light, no black shadows or bright highlights, no vignetting. Broad irregular crumple structure with fine smaller wrinkles, consistent illumination. Landscape 3:2 high resolution seamless-looking surface; the pattern should be suitable for a large footer backdrop."
+    },
+    {
+      "name": "texture-sage-paper",
+      "prompt": "Use case: stylized-concept. Asset type: website section background texture. Create a full-bleed flat top-down scan of soft muted sage green cold-press watercolor paper, centered around #e3ebda. Entire image is paper without objects, lettering, symbols, borders or watermark. Subtle softly mottled sage watercolor pigment embedded in cotton fiber, shallow broad creases from gently flattened paper, fine tooth and irregular handmade grain. Low contrast, evenly lit, quiet refined premium stationery surface for dark green HTML text. No strong shadows, no large stains, no dramatic folds, no gradients, no vignetting. Landscape 3:2 high resolution, seamless-looking texture."
+    },
+    {
+      "name": "texture-ochre-paper",
+      "prompt": "Use case: stylized-concept. Asset type: website card background texture. Create a full-bleed flat top-down scan of pale warm ochre and flax cotton rag paper, centered around #f4ecd8. Entire image is a continuous paper surface, no objects or edges or text or watermark. Barely visible warm yellow watercolor granulation, tiny natural fibers, a few very soft shallow flattened wrinkles. Refined original editorial watercolor stationery aesthetic. Low contrast so dark pine green small interface labels are easy to read. Uniform soft illumination. No heavy stains, no spots, no metallic shine, no leather, no gradients, no vignetting. Landscape 3:2 high resolution seamless-looking texture."
+    },
+    {
+      "name": "texture-rose-paper",
+      "prompt": "Use case: stylized-concept. Asset type: website card background texture. Create a full-bleed flat top-down scan of very pale terracotta blush handmade watercolor paper, centered around #f5e7df. Continuous paper fills all edges, no objects, page edges, text, symbols, logos or watermark. Fine organic cotton fiber tooth, understated pale clay watercolor pigment granulation and a few gently flattened small creases, tactile matte premium archival stationery. Very low contrast, quiet enough behind dark pine green interface text. No dramatic folds or lighting, no dark stains, no gradients, no vignette. Landscape 3:2 high resolution seamless-looking texture."
+    }
+  ]
+}

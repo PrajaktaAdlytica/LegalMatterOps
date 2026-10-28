@@ -1,0 +1,17 @@
+{
+  "method": "Built-in image_gen",
+  "concepts": [
+    {
+      "name": "monogram",
+      "prompt": "Use case: logo-brand. Create a premium logo concept presentation for LegalMatterOps, a supervised legal matter operations platform. Painted Ledger brand: deep pine green, ivory cotton paper, muted sage and restrained ochre. Sophisticated independent design studio quality, distinctive and refined, no generic AI sparkles, no scales of justice, no gavels, no shields, no stock logos. Landscape presentation: large emblem and exact wordmark 'LegalMatterOps' centered, generous whitespace, small secondary monochrome mark at bottom right to show small-size usefulness. Crisp vector-friendly shapes, flat ink logo with subtle paper background only, not a 3D mockup. Typography: beautifully balanced editorial serif wordmark, highly readable exact spelling. No extra text. Interweave uppercase L and M into a clever elegant ligature emblem; sculptural high contrast serif strokes with clear negative space. Quiet luxury publishing house meets precision operations."
+    },
+    {
+      "name": "folio",
+      "prompt": "Use case: logo-brand. Create a premium logo concept presentation for LegalMatterOps, a supervised legal matter operations platform. Painted Ledger brand: deep pine green, ivory cotton paper, muted sage and restrained ochre. Sophisticated independent design studio quality, distinctive and refined, no generic AI sparkles, no scales of justice, no gavels, no shields, no stock logos. Landscape presentation: large emblem and exact wordmark 'LegalMatterOps' centered, generous whitespace, small secondary monochrome mark at bottom right to show small-size usefulness. Crisp vector-friendly shapes, flat ink logo with subtle paper background only, not a 3D mockup. Typography: beautifully balanced editorial serif wordmark, highly readable exact spelling. No extra text. Create a distinctive folded folio emblem: three considered paper planes form an abstract M and an open L in negative space. Geometric but graceful, deliberate asymmetric balance, solid pine mark with a tiny ochre inset."
+    },
+    {
+      "name": "seal",
+      "prompt": "Use case: logo-brand. Create a premium logo concept presentation for LegalMatterOps, a supervised legal matter operations platform. Painted Ledger brand: deep pine green, ivory cotton paper, muted sage and restrained ochre. Sophisticated independent design studio quality, distinctive and refined, no generic AI sparkles, no scales of justice, no gavels, no shields, no stock logos. Landscape presentation: large emblem and exact wordmark 'LegalMatterOps' centered, generous whitespace, small secondary monochrome mark at bottom right to show small-size usefulness. Crisp vector-friendly shapes, flat ink logo with subtle paper background only, not a 3D mockup. Typography: beautifully balanced editorial serif wordmark, highly readable exact spelling. No extra text. Create a refined open circular editorial seal around a bespoke LMO ligature, a few finely spaced framing arcs evoke the movement of documents between owners. Modern luxury stationery, substantial elegant strokes, no tiny ornamental clutter."
+    }
+  ]
+}

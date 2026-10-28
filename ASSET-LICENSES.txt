@@ -1,0 +1,13 @@
+LegalMatterOps asset provenance
+
+Watercolor artwork and brand mark: original generated assets created for this project using the selected Painted Ledger concept as the visual reference. Public demo UI, copy and data are original implementations. No Clio/Litify UI or real legal document is reproduced.
+
+Newsreader Variable: Fontsource distribution, SIL Open Font License. See node_modules/@fontsource-variable/newsreader/LICENSE.
+Geist Variable: Fontsource distribution, SIL Open Font License. See node_modules/@fontsource-variable/geist/LICENSE.
+Phosphor React icons: MIT. See node_modules/@phosphor-icons/react/LICENSE.
+
+GSAP and Lenis retain their upstream licenses in node_modules. No partnership or endorsement is implied by the use of any dependency.
+
+LegalMatterOps naming, trademark availability and domain availability have not been verified. Historic Matter Deadline naming is retained only in research notes.
+
+Paper textures: four original raster surfaces generated for LegalMatterOps with built-in image_gen: pine crumpled paper, sage watercolor cotton, ochre rag paper and terracotta paper. Exact prompts and method are recorded in TEXTURE-PROMPTS.json. PNG originals and optimized WebP files are included.
